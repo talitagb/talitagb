@@ -1,6 +1,6 @@
 ## Oie! Eu sou a Talita
 
-- Faço estágio em desenvolvimento front-end
+- Desenvolvedor web front-end
 - Estudando ReactJS
 
 <div align="center">
