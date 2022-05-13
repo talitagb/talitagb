@@ -1,7 +1,7 @@
 ## Oie! Eu sou a Talita
 
 - Desenvolvedor trainee
-- Estudando Angular
+- Estudando Java
 
 <div align="center">
   <a href="https://github.com/talitagb">
