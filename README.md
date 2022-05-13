@@ -1,7 +1,7 @@
 ## Oie! Eu sou a Talita
 
-- Desenvolvedor web front-end
-- Estudando ReactJS
+- Desenvolvedor trainee
+- Estudando Angular
 
 <div align="center">
   <a href="https://github.com/talitagb">
