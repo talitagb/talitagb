@@ -1,6 +1,6 @@
 ## Oie! Eu sou a Talita
 
-- Desenvolvedor trainee
+- Desenvolvedor Java Junior
 - Aprimorando meus conhecimentos em JAVA
 
 <div align="center">
